@@ -1,4 +1,4 @@
-package org.example;
+package com.kgm.exam;
 
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
